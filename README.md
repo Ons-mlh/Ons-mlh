@@ -54,9 +54,6 @@ I enjoy exploring different tech fields: from web to AI, and turning ideas into 
   <a href="https://www.linkedin.com/in/ons-el-maleh-648531300/">
     <img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=F5F5DC" />
   </a>
-  <a href="https://mastodon.social/@Ons%20El%20Maleh">
-    <img src="https://img.shields.io/badge/Mastodon-2E8B57?style=for-the-badge&logo=mastodon&logoColor=F5F5DC" />
-  </a>
   <a href="mailto:ons.el.maleh@gmail.com">
     <img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=F5F5DC" />
   </a>
@@ -119,43 +116,11 @@ I enjoy exploring different tech fields: from web to AI, and turning ideas into 
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ons-mlh&theme=dark&bg_color=F5F5DC&title_color=2E8B57&text_color=2E8B57&icon_color=2E8B57&border_color=2E8B57&show_icons=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ons-mlh&theme=dark&background=F5F5DC&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=2E8B57&sideNums=2E8B57&currStreakLabel=2E8B57&sideLabels=2E8B57&dates=2E8B57" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ons-mlh&theme=dark&bg_color=F5F5DC&title_color=2E8B57&text_color=2E8B57&border_color=2E8B57&layout=compact" width="40%" />
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ons-mlh&theme=flat&no-frame=false&no-bg=true&margin-w=10&title_color=2E8B57&icon_color=2E8B57&text_color=2E8B57" />
-</div>
-
----
 
 # ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=F5F5DC&text_color=2E8B57" />
-</div>
-
----
-
-# 🔝 Top Contributed Repo
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ons-mlh&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=F5F5DC&title_color=2E8B57&text_color=2E8B57&icon_color=2E8B57&border_color=2E8B57" />
 </div>
 
 ---
@@ -172,5 +137,5 @@ I enjoy exploring different tech fields: from web to AI, and turning ideas into 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
