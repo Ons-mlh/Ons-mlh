@@ -120,15 +120,8 @@ I enjoy exploring different tech fields: from web to AI, and turning ideas into 
 # ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=F5F5DC&text_color=2E8B57" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=FFFDD0&text_color=2E8B57" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ons-mlh&icon=5&color=2E8B57" />
-</div>
-
 ---
 
 <!-- Animated Footer -->
