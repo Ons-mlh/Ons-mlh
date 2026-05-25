@@ -23,10 +23,6 @@
 
 ⚡ **Fun fact** — I enjoy exploring different tech fields: from web to AI, and turning ideas into practical projects
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default&bgColor=FFF0F2&textColor=D4788A&aColor=D4788A&borderColor=F4A7B0" alt="Jokes Card" width="80%"/>
-</div>
-
 ---
 
 ## 🌐 Connect With Me
