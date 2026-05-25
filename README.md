@@ -84,8 +84,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ons-mlh&theme=rose_pine&hide_border=true&bg_color=FFF0F2&title_color=D4788A&text_color=8B4553&icon_color=F4A7B0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ons-mlh&theme=rose_pine&hide_border=true&bg_color=FFF0F2&title_color=D4788A&text_color=8B4553&layout=compact" height="165" />
+  <img src="https://stats.hyochan.dev/api/github-stats?login=Ons-mlh&bg_color=FFF0F2&title_color=D4788A&text_color=8B4553" />
 </p>
 
 <p align="center">
