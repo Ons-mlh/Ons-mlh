@@ -1,132 +1,118 @@
-<!-- 🌿 Banner with crème & vert theme -->
+<!-- 🌸 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Ons%20El%20Maleh&fontSize=50&fontColor=F5F5DC&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B0&height=200&section=header&text=Ons%20El%20Maleh&fontSize=50&fontColor=FFF5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=FFF5F5" alt="Header" width="100%" />
 </p>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-  <span style="color:#2E8B57">Welcome to my dev space!</span>
-</h1>
 
 <h3 align="center">
-  <span style="background:#2E8B57; color:#F5F5DC; padding:5px 15px; border-radius:20px;">✨ Full-Stack Developer | AI Explorer | Creative Problem Solver ✨</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=22&duration=3000&pause=800&color=D4788A&center=true&width=600&lines=✦+Full-Stack+Developer+✦;✦+AI+Explorer+✦;✦+Creative+Problem+Solver+✦" alt="Typing Animation" />
 </h3>
-
-<!-- Typing Animation with vert theme -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2E8B57&center=true&width=600&lines=🌿+Building+full-stack+magic+🌿;🤖+Experimenting+with+AI+models+🤖;💡+Turning+ideas+into+real+apps+💡;⚡+Always+learning+something+new+⚡" alt="Typing Animation" />
-</p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🔭 **I’m currently working on**  
-Full-stack projects and experimenting with AI models
+🔭 **Currently working on** — Full-stack projects and experimenting with AI/LLM models
 
-🤝 **I’m looking to collaborate on**  
-Software engineering projects: web, backend, or AI-related
+🤝 **Looking to collaborate on** — Software engineering projects: web, backend, or AI-related
 
-🧠 **I’m looking for help with**  
-Advanced backend concepts, system design, and applying AI in real-world apps
+🧠 **Looking for help with** — Advanced backend concepts, system design, and applying AI in real-world apps
 
-🌱 **I’m currently learning**  
-Backend development, AI fundamentals, and software engineering best practices
+🌱 **Currently learning** — Backend development, AI fundamentals, and software engineering best practices
 
-💬 **Ask me about**  
-React, Next, networking basics, or anything related to building real-world apps
+💬 **Ask me about** — React, Next.js, networking basics, or anything related to building real-world apps
 
-⚡ **Fun fact**  
-I enjoy exploring different tech fields: from web to AI, and turning ideas into practical projects
+⚡ **Fun fact** — I enjoy exploring different tech fields: from web to AI, and turning ideas into practical projects
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default&bgColor=F5F5DC&textColor=2E8B57&aColor=2E8B57" alt="Jokes Card" width="80%"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=default&bgColor=FFF0F2&textColor=D4788A&aColor=D4788A&borderColor=F4A7B0" alt="Jokes Card" width="80%"/>
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/ons.mlh">
-    <img src="https://img.shields.io/badge/Facebook-2E8B57?style=for-the-badge&logo=facebook&logoColor=F5F5DC" />
+    <img src="https://img.shields.io/badge/Facebook-F4A7B0?style=for-the-badge&logo=facebook&logoColor=FFF5F5" />
   </a>
   <a href="https://www.linkedin.com/in/ons-el-maleh-648531300/">
-    <img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=F5F5DC" />
+    <img src="https://img.shields.io/badge/LinkedIn-F4A7B0?style=for-the-badge&logo=linkedin&logoColor=FFF5F5" />
   </a>
   <a href="mailto:ons.el.maleh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=F5F5DC" />
+    <img src="https://img.shields.io/badge/Email-F4A7B0?style=for-the-badge&logo=gmail&logoColor=FFF5F5" />
   </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=2E8B57&center=true&width=435&lines=Languages;Frameworks;Tools;Databases;AI+%26+ML" />
-</p>
-
-<div align="center">
+## 💻 Tech Stack
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/react-2E8B57?style=for-the-badge&logo=react&logoColor=F5F5DC)
-![Next JS](https://img.shields.io/badge/Next-black-2E8B57?style=for-the-badge&logo=next.js&logoColor=F5F5DC)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-2E8B57?style=for-the-badge&logo=tailwind-css&logoColor=F5F5DC)
-![Radix UI](https://img.shields.io/badge/radix%20ui-2E8B57?style=for-the-badge&logo=radix-ui&logoColor=F5F5DC)
-![DaisyUI](https://img.shields.io/badge/daisyui-2E8B57?style=for-the-badge&logo=daisyui&logoColor=F5F5DC)
+![React](https://img.shields.io/badge/react-F4A7B0?style=for-the-badge&logo=react&logoColor=FFF5F5)
+![Next JS](https://img.shields.io/badge/Next.js-F4A7B0?style=for-the-badge&logo=next.js&logoColor=FFF5F5)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-F4A7B0?style=for-the-badge&logo=tailwind-css&logoColor=FFF5F5)
+![Radix UI](https://img.shields.io/badge/radix%20ui-F4A7B0?style=for-the-badge&logo=radix-ui&logoColor=FFF5F5)
+![DaisyUI](https://img.shields.io/badge/daisyui-F4A7B0?style=for-the-badge&logo=daisyui&logoColor=FFF5F5)
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=F5F5DC)
-![Express.js](https://img.shields.io/badge/express.js-2E8B57?style=for-the-badge&logo=express&logoColor=F5F5DC)
-![Python](https://img.shields.io/badge/python-2E8B57?style=for-the-badge&logo=python&logoColor=F5F5DC)
-![Java](https://img.shields.io/badge/java-2E8B57?style=for-the-badge&logo=openjdk&logoColor=F5F5DC)
+![NodeJS](https://img.shields.io/badge/node.js-F4A7B0?style=for-the-badge&logo=node.js&logoColor=FFF5F5)
+![Express.js](https://img.shields.io/badge/express.js-F4A7B0?style=for-the-badge&logo=express&logoColor=FFF5F5)
+![Python](https://img.shields.io/badge/python-F4A7B0?style=for-the-badge&logo=python&logoColor=FFF5F5)
+![FastAPI](https://img.shields.io/badge/fastapi-F4A7B0?style=for-the-badge&logo=fastapi&logoColor=FFF5F5)
+![Java](https://img.shields.io/badge/java-F4A7B0?style=for-the-badge&logo=openjdk&logoColor=FFF5F5)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-2E8B57?style=for-the-badge&logo=mongodb&logoColor=F5F5DC)
-![MySQL](https://img.shields.io/badge/mysql-2E8B57?style=for-the-badge&logo=mysql&logoColor=F5F5DC)
-![Firebase](https://img.shields.io/badge/firebase-2E8B57?style=for-the-badge&logo=firebase&logoColor=F5F5DC)
+![MongoDB](https://img.shields.io/badge/MongoDB-F4A7B0?style=for-the-badge&logo=mongodb&logoColor=FFF5F5)
+![MySQL](https://img.shields.io/badge/mysql-F4A7B0?style=for-the-badge&logo=mysql&logoColor=FFF5F5)
+![Firebase](https://img.shields.io/badge/firebase-F4A7B0?style=for-the-badge&logo=firebase&logoColor=FFF5F5)
 
 ### 🤖 AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2E8B57?style=for-the-badge&logo=TensorFlow&logoColor=F5F5DC)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-2E8B57?style=for-the-badge&logo=scikit-learn&logoColor=F5F5DC)
-![NumPy](https://img.shields.io/badge/numpy-2E8B57?style=for-the-badge&logo=numpy&logoColor=F5F5DC)
-![Pandas](https://img.shields.io/badge/pandas-2E8B57?style=for-the-badge&logo=pandas&logoColor=F5F5DC)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2E8B57?style=for-the-badge&logo=Matplotlib&logoColor=F5F5DC)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-2E8B57?style=for-the-badge&logo=Flutter&logoColor=F5F5DC)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F4A7B0?style=for-the-badge&logo=TensorFlow&logoColor=FFF5F5)
+![Keras](https://img.shields.io/badge/Keras-F4A7B0?style=for-the-badge&logo=keras&logoColor=FFF5F5)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F4A7B0?style=for-the-badge&logo=scikit-learn&logoColor=FFF5F5)
+![NumPy](https://img.shields.io/badge/numpy-F4A7B0?style=for-the-badge&logo=numpy&logoColor=FFF5F5)
+![Pandas](https://img.shields.io/badge/pandas-F4A7B0?style=for-the-badge&logo=pandas&logoColor=FFF5F5)
 
 ### 🛠️ Languages & Tools
-![C](https://img.shields.io/badge/c-2E8B57?style=for-the-badge&logo=c&logoColor=F5F5DC)
-![C++](https://img.shields.io/badge/c++-2E8B57?style=for-the-badge&logo=c%2B%2B&logoColor=F5F5DC)
-![C#](https://img.shields.io/badge/c%23-2E8B57?style=for-the-badge&logo=csharp&logoColor=F5F5DC)
-![JavaScript](https://img.shields.io/badge/javascript-2E8B57?style=for-the-badge&logo=javascript&logoColor=F5F5DC)
-![TypeScript](https://img.shields.io/badge/typescript-2E8B57?style=for-the-badge&logo=typescript&logoColor=F5F5DC)
-![HTML5](https://img.shields.io/badge/html5-2E8B57?style=for-the-badge&logo=html5&logoColor=F5F5DC)
-![Docker](https://img.shields.io/badge/docker-2E8B57?style=for-the-badge&logo=docker&logoColor=F5F5DC)
+![C](https://img.shields.io/badge/c-F4A7B0?style=for-the-badge&logo=c&logoColor=FFF5F5)
+![C++](https://img.shields.io/badge/c++-F4A7B0?style=for-the-badge&logo=c%2B%2B&logoColor=FFF5F5)
+![JavaScript](https://img.shields.io/badge/javascript-F4A7B0?style=for-the-badge&logo=javascript&logoColor=FFF5F5)
+![TypeScript](https://img.shields.io/badge/typescript-F4A7B0?style=for-the-badge&logo=typescript&logoColor=FFF5F5)
+![HTML5](https://img.shields.io/badge/html5-F4A7B0?style=for-the-badge&logo=html5&logoColor=FFF5F5)
+![Git](https://img.shields.io/badge/git-F4A7B0?style=for-the-badge&logo=git&logoColor=FFF5F5)
+![Vercel](https://img.shields.io/badge/vercel-F4A7B0?style=for-the-badge&logo=vercel&logoColor=FFF5F5)
+![Canva](https://img.shields.io/badge/Canva-F4A7B0?style=for-the-badge&logo=Canva&logoColor=FFF5F5)
 
-### 🎨 Design
-![Canva](https://img.shields.io/badge/Canva-2E8B57?style=for-the-badge&logo=Canva&logoColor=F5F5DC)
-
-### ☁️ Cloud & Hosting
-![Netlify](https://img.shields.io/badge/netlify-2E8B57?style=for-the-badge&logo=netlify&logoColor=F5F5DC)
-![Firebase](https://img.shields.io/badge/firebase-2E8B57?style=for-the-badge&logo=firebase&logoColor=F5F5DC)
-![Oracle](https://img.shields.io/badge/Oracle-2E8B57?style=for-the-badge&logo=oracle&logoColor=F5F5DC)
-
-</div>
-
-
-# ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=FFFDD0&text_color=2E8B57" />
-</div>
 ---
 
-<!-- Animated Footer -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=2E8B57&center=true&width=500&lines=🌿+Thanks+for+stopping+by+🌿;💚+Let's+build+something+amazing+together+💚;✨+Always+learning,+always+growing+✨" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ons-mlh&theme=rose_pine&hide_border=true&bg_color=FFF0F2&title_color=D4788A&text_color=8B4553&icon_color=F4A7B0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ons-mlh&theme=rose_pine&hide_border=true&bg_color=FFF0F2&title_color=D4788A&text_color=8B4553&layout=compact" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ons-mlh&theme=rose_pine&hide_border=true&background=FFF0F2&ring=F4A7B0&fire=D4788A&currStreakLabel=D4788A&sideLabels=8B4553&dates=8B4553&sideNums=D4788A&currStreakNum=D4788A" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&bg_color=FFF0F2&text_color=D4788A&border_color=F4A7B0" />
+</div>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=16&duration=4000&pause=2000&color=D4788A&center=true&width=500&lines=🌸+Thanks+for+stopping+by+🌸;💕+Let's+build+something+amazing+together;✨+Always+learning,+always+growing+✨" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A7B0&height=100&section=footer" width="100%" />
 </p>
 
 <p align="center">
