@@ -82,11 +82,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=Ons-mlh&bg_color=FFF0F2&title_color=D4788A&text_color=8B4553" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ons-mlh&theme=rose_pine&hide_border=true&background=FFF0F2&ring=F4A7B0&fire=D4788A&currStreakLabel=D4788A&sideLabels=8B4553&dates=8B4553&sideNums=D4788A&currStreakNum=D4788A" />
 </p>
